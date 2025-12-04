@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Products — Trendify</title>
+  
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="styles/styles.css">
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Cormorant+Garamond:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <!-- HEADER / NAVBAR -->
+  <header id="header">
+    <a href="index.html" class="logo-link">
+      <span class="logo">Trendify</span>
+    </a>
+
+    <nav>
+      <ul id="navbar">
+        <li><a href="index.html">Home</a></li>
+        <li><a class="active" href="products.html">Products</a></li>
+        <li><a href="board.html">Board</a></li>
+        <li><a href="inquiries.html">Inquiries</a></li>
+        <li><a href="events.html">Events</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <button id="close" aria-label="Close menu">
+          <span></span>
+          <span></span>
+        </button>
+      </ul>
+    </nav>
+
+    <button id="mobile-toggle" aria-label="Toggle menu">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+  </header>
+
+  <!-- MARQUEE SECTION -->
+  <section id="marquee">
+    <div class="marquee" role="region" aria-label="Upcoming events and announcements" tabindex="0">
+      <div class="marquee-track" aria-hidden="false">
+        <div class="marquee-group">
+          <span class="marquee-item"><strong>Nov 15, 2025</strong> — New Fall Drop: Luxe Streetwear</span>
+          <span class="sep">•</span>
+          <span class="marquee-item"><strong>Nov 22, 2025</strong> — Free Shipping Weekend</span>
+          <span class="sep">•</span>
+          <span class="marquee-item"><strong>Dec 01, 2025</strong> — Trendify Holiday Lookbook</span>
+          <span class="sep">•</span>
+          <span class="marquee-item"><strong>Dec 10, 2025</strong> — Live Q&A with Designers</span>
+          <span class="sep">•</span>
+          <span class="marquee-item"><strong>Dec 24, 2025</strong> — Last Day for Holiday Delivery</span>
+        </div>
+        
+        <div class="marquee-group" aria-hidden="true">
+          <span class="marquee-item"><strong>Nov 15, 2025</strong> — New Fall Drop: Luxe Streetwear</span>
+          <span class="sep">•</span>
+          <span class="marquee-item"><strong>Nov 22, 2025</strong> — Free Shipping Weekend</span>
+          <span class="sep">•</span>
+          <span class="marquee-item"><strong>Dec 01, 2025</strong> — Trendify Holiday Lookbook</span>
+          <span class="sep">•</span>
+          <span class="marquee-item"><strong>Dec 10, 2025</strong> — Live Q&A with Designers</span>
+          <span class="sep">•</span>
+          <span class="marquee-item"><strong>Dec 24, 2025</strong> — Last Day for Holiday Delivery</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PRODUCTS PAGE HEADER -->
+  <section class="page-header">
+    <div class="container-narrow">
+      <h1 class="page-title">Our Collection</h1>
+      <p class="page-subtitle">Curated pieces for the modern wardrobe</p>
+    </div>
+  </section>
+
+  <!-- PRODUCTS GRID -->
+  <main class="products-container">
+  <div class="products-grid">
+
+    <!-- Product 1 -->
+    <article class="product-card">
+      <a href="products detail/product-1.html" class="product-link">
+        <div class="product-image">
+          <img src="images/product-images/product-1.jpg" alt="Elegant Evening Gown">
+          <span class="product-badge">Featured</span>
+        </div>
+        <div class="product-info">
+          <p class="product-category">Dresses</p>
+          <h2 class="product-title">Elegant Evening Gown</h2>
+          <p class="product-description">Luxurious silk with intricate beadwork</p>
+          <div class="product-footer">
+            <span class="product-price">₦45,000</span>
+            <span class="product-cta">View Details</span>
+          </div>
+        </div>
+      </a>
+    </article>
+
+    <!-- Product 2 -->
+    <article class="product-card">
+      <a href="products detail/product-2.html" class="product-link">
+        <div class="product-image">
+          <img src="images/product-images/product-2.jpg" alt="Classic Business Suit">
+          <span class="product-badge">Featured</span>
+        </div>
+        <div class="product-info">
+          <p class="product-category">Suits</p>
+          <h2 class="product-title">Classic Business Suit</h2>
+          <p class="product-description">Tailored wool for professional settings</p>
+          <div class="product-footer">
+            <span class="product-price">₦35,000</span>
+            <span class="product-cta">View Details</span>
+          </div>
+        </div>
+      </a>
+    </article>
+
+    <!-- Product 3 -->
+    <article class="product-card">
+      <a href="products detail/product-3.html" class="product-link">
+        <div class="product-image">
+          <img src="images/product-images/product-3.jpg" alt="Summer Floral Dress">
+          <span class="product-badge">Featured</span>
+        </div>
+        <div class="product-info">
+          <p class="product-category">Dresses</p>
+          <h2 class="product-title">Summer Floral Dress</h2>
+          <p class="product-description">Light and breezy for warm weather</p>
+          <div class="product-footer">
+            <span class="product-price">₦30,000</span>
+            <span class="product-cta">View Details</span>
+          </div>
+        </div>
+      </a>
+    </article>
+
+    <!-- Product 4 -->
+    <article class="product-card">
+      <a href="products detail/product-4.html" class="product-link">
+        <div class="product-image">
+          <img src="images/product-images/product-4.jpg" alt="Leather Jacket">
+        </div>
+        <div class="product-info">
+          <p class="product-category">Outerwear</p>
+          <h2 class="product-title">Leather Jacket</h2>
+          <p class="product-description">Premium leather with modern design</p>
+          <div class="product-footer">
+            <span class="product-price">₦25,000</span>
+            <span class="product-cta">View Details</span>
+          </div>
+        </div>
+      </a>
+    </article>
+
+    <!-- Product 5 -->
+    <article class="product-card">
+      <a href="products detail/product-5.html" class="product-link">
+        <div class="product-image">
+          <img src="images/product-images/product-5.jpg" alt="Designer Handbag">
+        </div>
+        <div class="product-info">
+          <p class="product-category">Accessories</p>
+          <h2 class="product-title">Designer Handbag</h2>
+          <p class="product-description">Elegant leather with floral design</p>
+          <div class="product-footer">
+            <span class="product-price">₦15,000</span>
+            <span class="product-cta">View Details</span>
+          </div>
+        </div>
+      </a>
+    </article>
+
+    <!-- Product 6 -->
+    <article class="product-card">
+      <a href="products detail/product-6.html" class="product-link">
+        <div class="product-image">
+          <img src="images/product-images/product-6.jpg" alt="Silk Scarf Collection">
+        </div>
+        <div class="product-info">
+          <p class="product-category">Accessories</p>
+          <h2 class="product-title">Silk Scarf Collection</h2>
+          <p class="product-description">Luxury silk with unique patterns</p>
+          <div class="product-footer">
+            <span class="product-price">₦3,000</span>
+            <span class="product-cta">View Details</span>
+          </div>
+        </div>
+      </a>
+    </article>
+
+    <!-- Product 7 -->
+    <article class="product-card">
+      <a href="products detail/product-7.html" class="product-link">
+        <div class="product-image">
+          <img src="images/product-images/product-7.jpg" alt="Sunglasses Collection">
+        </div>
+        <div class="product-info">
+          <p class="product-category">Accessories</p>
+          <h2 class="product-title">Sunglasses Collection</h2>
+          <p class="product-description">Stylish protection for your eyes</p>
+          <div class="product-footer">
+            <span class="product-price">₦10,000</span>
+            <span class="product-cta">View Details</span>
+          </div>
+        </div>
+      </a>
+    </article>
+
+  </div>
+</main>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="footer-content">
+      <div class="footer-brand">
+        <h3 class="footer-logo">Trendify</h3>
+        <p class="footer-tagline">Where Style Meets Confidence</p>
+      </div>
+
+      <div class="footer-links">
+        <div class="footer-column">
+          <h4>Shop</h4>
+          <ul>
+            <li><a href="products.html">All Products</a></li>
+            <li><a href="products.html">New Arrivals</a></li>
+            <li><a href="products.html">Collections</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-column">
+          <h4>About</h4>
+          <ul>
+            <li><a href="board.html">Our Story</a></li>
+            <li><a href="events.html">Events</a></li>
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-column">
+          <h4>Connect</h4>
+          <ul>
+            <li><a href="#">Instagram</a></li>
+            <li><a href="#">Facebook</a></li>
+            <li><a href="#">Newsletter</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <p>&copy; 2025 Trendify. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <!-- SCRIPTS -->
+  <script src="scripts/index.js"></script>
+  <script src="scripts/products.js"></script>
+</body>
+</html>
