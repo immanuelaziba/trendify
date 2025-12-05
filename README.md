@@ -33,6 +33,7 @@ Trendify/
 ├── scripts/
 │   ├── index.js
 │   ├── products.js
+│   ├── board.js
 │   ├── events.js
 │   ├── inquiries.js
 │   ├── marquee.js
@@ -40,7 +41,7 @@ Trendify/
 │
 ├── index.html
 ├── products.html
-├── about.html
+├── board.html
 ├── events.html
 ├── inquiries.html
 ```
