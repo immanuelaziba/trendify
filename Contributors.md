@@ -10,11 +10,11 @@ Trendify-Zen Project
 │     └── Solihah Eniola Shittu — Matric No: 2024/B/CSC/0284
 │
 ├──  Homepage
-│     └── Ibebuike Chimereze Jethro — Matric No: __________________
+│     └── Ibebuike Chimereze Jethro – Matric No: 2024/C/SENG/0732
 │
 ├──  Product Showcase Page
-│     ├── Abidemi Adewale — Matric No: __________________
-│     ├── Chiemela Favour — Matric No: __________________
+│     ├── Abidemi Adewale – Matric No: 2024/C/DSC/0399 
+│     ├── Chiemela Favour — Matric no: 2024/C/CYB/0892
 │     └── Adekemi Augusta Adeya — Matric No: 2024/C/DSC/0520
 │
 ├──  Board of Trustees Page
@@ -22,7 +22,7 @@ Trendify-Zen Project
 │     └── Aishat Maaruf Salaudeen — Matric No: 2024/C/CYB/0818
 │
 ├──  Upcoming Events Page
-│     ├── Shogbesan Anuoluwapo Esther — Matric No: __________________
+│     ├── Shogbesan Anuoluwapo Esther – Matric No: 2024/C/CSC/0809
 │     └── Echegi Simeon Onyebuchi — Matric No: 2024/C/CYB/0860
 │
 ├──  Inquiries & Booking Page
@@ -47,7 +47,7 @@ Matric No: 2024/B/CSC/0284
 ## ** Homepage**
 
 ### **Ibebuike Chimereze Jethro**
-Matric No: To be filled
+Matric No: 2024/C/SENG/0732
 
 * Designed and built the full Homepage
 * Assisted every other section of the project **except the Test/Validation phase**
@@ -57,10 +57,10 @@ Matric No: To be filled
 ## ** Product Showcase Page**
 
 ### **Abidemi Adewale**
-Matric No: To be filled
+Matric No: 2024/C/DSC/0399 
 
 ### **Chiemela Favour**
-Matric No: To be filled
+Matric no: 2024/C/CYB/0892
 
 ### **Adekemi Adeya**
 Matric No: 2024/C/DSC/0520
@@ -89,7 +89,7 @@ Matric No: 2024/C/CYB/0818
 ## ** Upcoming Events Page**
 
 ### **Shogbesan Anuoluwapo Esther**
-Matric No: To be filled
+Matric No: 2024/C/CSC/0809 
 
 ### **Echegi Simeon Onyebuchi**
 Matric No: 2024/C/CYB/0860
