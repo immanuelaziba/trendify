@@ -4,9 +4,39 @@ This document lists all team members who contributed to the design, content, str
 
 ---
 
+Trendify-Zen Project
+│
+├──  Project Lead
+│     └── Solihah Eniola Shittu — Matric No: 2024/B/CSC/0284
+│
+├──  Homepage
+│     └── Ibebuike Chimereze Jethro — Matric No: __________________
+│
+├──  Product Showcase Page
+│     ├── Abidemi Adewale — Matric No: __________________
+│     ├── Chiemela Favour — Matric No: __________________
+│     └── Adekemi Augusta Adeya — Matric No: 2024/C/DSC/0520
+│
+├──  Board of Trustees Page
+│     ├── Nrufai Titilayo Divinefavour — Matric No: 2024/C/SENG/0767
+│     └── Aishat Maaruf Salaudeen — Matric No: 2024/C/CYB/0818
+│
+├──  Upcoming Events Page
+│     ├── Shogbesan Anuoluwapo Esther — Matric No: __________________
+│     └── Echegi Simeon Onyebuchi — Matric No: 2024/C/CYB/0860
+│
+├──  Inquiries & Booking Page
+│     └── Solihah Eniola Shittu — Matric No: 2024/B/CSC/0284
+│
+└──  Test, Validation & Final Integration
+      └── Immanuel Aziba — Matric No: 2024/C/SENG/0450
+
+---
+
 ## ** Team Lead**
 
 ### **Solihah Eniola Shittu**
+Matric No: 2024/B/CSC/0284
 
 * Coordinated the entire project
 * Assigned tasks and managed workflow
@@ -17,6 +47,7 @@ This document lists all team members who contributed to the design, content, str
 ## ** Homepage**
 
 ### **Ibebuike Chimereze Jethro**
+Matric No: To be filled
 
 * Designed and built the full Homepage
 * Assisted every other section of the project **except the Test/Validation phase**
@@ -26,10 +57,13 @@ This document lists all team members who contributed to the design, content, str
 ## ** Product Showcase Page**
 
 ### **Abidemi Adewale**
+Matric No: To be filled
 
 ### **Chiemela Favour**
+Matric No: To be filled
 
 ### **Adekemi Adeya**
+Matric No: 2024/C/DSC/0520
 
 * Designed and structured the product gallery
 * Added product visuals, listings, and layout
@@ -41,8 +75,10 @@ This document lists all team members who contributed to the design, content, str
 ## ** Board of Trustees Page**
 
 ### **Nrufai Titilayo Divinefavour**
+Matric No: 2024/C/SENG/0767
 
 ### **Aishat Maaruf Salaudeen**
+Matric No: 2024/C/CYB/0818
 
 * Compiled trustee names, departments, and matric numbers
 * Structured the layout and presentation
@@ -53,8 +89,10 @@ This document lists all team members who contributed to the design, content, str
 ## ** Upcoming Events Page**
 
 ### **Shogbesan Anuoluwapo Esther**
+Matric No: To be filled
 
 ### **Echegi Simeon Onyebuchi**
+Matric No: 2024/C/CYB/0860
 
 * Created the event listings
 * Designed the layout and descriptions
@@ -66,6 +104,7 @@ This document lists all team members who contributed to the design, content, str
 ## ** Inquiries & Booking Page**
 
 ### **Solihah Eniola Shittu**
+Matric No: 2024/B/CSC/0284
 
 * Developed the full inquiries page
 * Added social links, contact channels, and brand details
@@ -76,6 +115,7 @@ This document lists all team members who contributed to the design, content, str
 ## ** Test, Validation & Final Restructuring**
 
 ### **Immanuel Aziba**
+Matric No: 2024/C/SENG/0450
 
 Contributions:
 
