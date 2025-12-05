@@ -268,53 +268,6 @@ button {
   }
 }
 
-/* Responsive adjustments */
-@media (max-width: 768px) {
-  #marquee {
-    margin-top: 69px;
-    padding: 0.65rem 0;
-  }
-
-  .marquee-item {
-    font-size: 0.75rem;
-  }
-
-  .marquee-group {
-    gap: 1.5rem;
-    padding-right: 1.5rem;
-  }
-
-  .marquee-track {
-    animation-duration: 45s;
-  }
-}
-
-@media (max-width: 480px) {
-  #marquee {
-    padding: 0.6rem 0;
-  }
-
-  .marquee-item {
-    font-size: 0.7rem;
-  }
-
-  .marquee-group {
-    gap: 1rem;
-    padding-right: 1rem;
-  }
-
-  .marquee-track {
-    animation-duration: 45s;
-  }
-}
-
-/* Accessibility: Respect reduced motion preferences */
-@media (prefers-reduced-motion: reduce) {  
-  .marquee-group:last-child {
-    display: none;
-  }
-}
-
 /* ========================================
    HERO SECTION
    ======================================== */
@@ -1524,4 +1477,60 @@ textarea {
     padding: 1.5rem;
   }
 
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  #marquee {
+    margin-top: 69px;
+    padding: 0.65rem 0;
+  }
+
+  .marquee-item {
+    font-size: 0.75rem;
+  }
+
+  .marquee-group {
+    gap: 1.5rem;
+    padding-right: 1.5rem;
+  }
+
+  /* Adjust duration to maintain same speed */
+  .marquee-track {
+    animation-duration: 35s;
+  }
+}
+
+@media (max-width: 480px) {
+  #marquee {
+    padding: 0.6rem 0;
+  }
+
+  .marquee-item {
+    font-size: 0.7rem;
+  }
+
+  .marquee-group {
+    gap: 1rem;
+    padding-right: 1rem;
+  }
+
+  /* Further adjust duration for smallest screens */
+  .marquee-track {
+    animation-duration: 28s;
+  }
+}
+
+/* Accessibility: Respect reduced motion preferences */
+@media (prefers-reduced-motion: reduce) {  
+  .marquee-group:last-child {
+    display: none;
+  }
+}
+
+/* Accessibility: Respect reduced motion preferences */
+@media (prefers-reduced-motion: reduce) {  
+  .marquee-group:last-child {
+    display: none;
+  }
 }
